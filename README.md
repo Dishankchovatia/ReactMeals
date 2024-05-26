@@ -49,7 +49,7 @@ Configure Firebase
 -> Set up a Firebase project in the Firebase Console.
 -> Add a Realtime Database to your project.
 -> Copy your Firebase configuration and add it to your project.
-
+```
 
 
 
